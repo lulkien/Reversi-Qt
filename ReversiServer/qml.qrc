@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/MainScreen.qml</file>
+        <file>ui/components/Frame.qml</file>
+        <file>ui/components/Button.qml</file>
+        <file>ui/javascript/func.js</file>
+    </qresource>
+</RCC>
